@@ -1,0 +1,10 @@
+h1{
+	font-family: Arial;
+	color: blueviolet; 
+}
+
+.btnRegister , .btnShow{
+	color: rgba(255, 0, 0, 1.0);
+	background-color: orange;
+	border-color: whitesmoke;
+}
